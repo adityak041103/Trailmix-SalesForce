@@ -5,4 +5,4 @@ This repo contains the Screenshots, demo video and complete documentation of tra
 
 #Report https://drive.google.com/file/d/1Q6f5pUqWQg6-ktZlqiRVOUIlFRwyuLq-/view?usp=sharing
 
-#Trailhead QRL https://www.salesforce.com/trailblazer/p9zq6f5byg7hpmd82j Let's Connect
+#Trailhead URL https://www.salesforce.com/trailblazer/adityakushwaha Let's Connect
